@@ -7,8 +7,10 @@
     text-decoration: none;
 }
 
-html, body {
+html,
+body {
     height: 100%;
+    font-family: 16px;
     background-color: var(--bg-dark);
     color: var(--color-white);
 }
